@@ -52,6 +52,11 @@ const docs = [
   justify-content: space-between;
   gap: 10px;
   margin: 10px 0;
+  user-select: none;
+
+  @media screen and (max-width: 900px){
+    flex-wrap: wrap;
+  }
 
   position: sticky;
   top: 25px;
