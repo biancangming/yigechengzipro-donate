@@ -9,7 +9,7 @@
 - 蓝鲸直播源 https://github.com/Cyril0563/lanjing_live
 - 直播源搜索引擎 https://www.foodieguide.com/iptvsearch/
 - 卫星电视数据库 https://www.lyngsat.com/
-
+- 广东电信组播 https://github.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List
 
 # EPG
 
