@@ -23,3 +23,4 @@
 - iptvnator https://github.com/4gray/iptvnator
 - VLC https://www.videolan.org/vlc/download-windows.html
 - kodi https://kodi.tv/
+- m3u8-downloader https://github.com/Momo707577045/m3u8-downloader

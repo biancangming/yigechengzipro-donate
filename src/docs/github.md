@@ -23,6 +23,10 @@
 
 - lit https://github.com/lit/lit
 
+# 桌面开发
+
+- wails https://github.com/wailsapp/wails
+
 
 # vue 三方库
 
