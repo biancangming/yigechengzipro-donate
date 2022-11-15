@@ -5,6 +5,7 @@
 - 全球网络摄像头观测站 https://www.skylinewebcams.com
 - 全球海运实时状况 https://www.shipxy.com/
 - 直播源相关资源汇总 https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
+- 历史地图 https://www.allhistory.com/map
 - 移动源合集 https://github.com/SPX372928/MyIPTV
 - 蓝鲸直播源 https://github.com/Cyril0563/lanjing_live
 - 直播源搜索引擎 https://www.foodieguide.com/iptvsearch/
